@@ -1,0 +1,42 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "4 maps",
+      "targetTime": 5.853412011743624
+    },
+    {
+      "name": "redo",
+      "targetTime": 11.084042733248348
+    },
+    {
+      "name": "mering",
+      "targetTime": 18.422375320652232
+    },
+    {
+      "name": "separate",
+      "targetTime": 20.166260258534827
+    },
+    {
+      "name": "horizontal_blend",
+      "targetTime": 23.080849360953962
+    },
+    {
+      "name": "lerp again",
+      "targetTime": 35.86980423390233
+    },
+    {
+      "name": "blur",
+      "targetTime": 44.923477821446404
+    },
+    {
+      "name": "show",
+      "targetTime": 52.438553392391896
+    },
+    {
+      "name": "next",
+      "targetTime": 63.25646630493911
+    }
+  ],
+  "seed": 1730391703
+}

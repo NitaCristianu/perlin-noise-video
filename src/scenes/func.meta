@@ -1,0 +1,50 @@
+{
+  "version": 0,
+  "timeEvents": [
+    {
+      "name": "start",
+      "targetTime": 1.3372349548463118
+    },
+    {
+      "name": "show map",
+      "targetTime": 2.7372349548463117
+    },
+    {
+      "name": "increase mapSize",
+      "targetTime": 7.6836174354423665
+    },
+    {
+      "name": "scale 1",
+      "targetTime": 13.789023975964575
+    },
+    {
+      "name": "scale 3",
+      "targetTime": 18.589023975964576
+    },
+    {
+      "name": "declarations",
+      "targetTime": 24.215454534183486
+    },
+    {
+      "name": "oxoy",
+      "targetTime": 30.055670191797255
+    },
+    {
+      "name": "move coord",
+      "targetTime": 35.14991894885964
+    },
+    {
+      "name": "r vector",
+      "targetTime": 43.799932380698436
+    },
+    {
+      "name": "dot",
+      "targetTime": 48.0845672427423
+    },
+    {
+      "name": "end",
+      "targetTime": 63.51245783840149
+    }
+  ],
+  "seed": 2504562462
+}
